@@ -1,5 +1,5 @@
 * To build your project use command:
-	mvn clean package -Dmaven.test.skip
+	mvn clean package
 
 * To launch your application, move into the target folder (cd target). Run the following command to run the application:
 	java -jar springboot-blogs-service-0.0.1-SNAPSHOT.jar
